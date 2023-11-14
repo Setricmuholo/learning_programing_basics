@@ -1,0 +1,22 @@
+body {
+    background-image: url("image-1.jpg");
+    /* background-color: lightblue; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: black;
+}
+
+h1 {
+    position: right;
+}
+
+p {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 0%;
+    border-width: 5px;
+    border-style: outset;
+    border-color: beige;
+    padding: 5px;
+}
